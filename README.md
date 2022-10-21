@@ -1,2 +1,32 @@
-# hacktoberfest-ccu
-Hacktoberfest Kolkata
+# Hacktoberfest Kolkata
+
+## Presentation Decks:
+- [Manish Kumar Barnwal](https://docs.google.com/presentation/d/1Q02b4_mnYJCGESSeNQvZxC83s-MMcYDCDTLI1j7xjCU/edit?usp=sharing)
+- Hrittik Roy
+
+## Hacktoberfest Website: [hacktoberfest.com](https://hacktoberfest.com/)
+
+## Resources For Beginners:
+### INTRO TO OPEN SOURCE
+- DigitalOcean: [INTRODUCTION TO GITHUB AND OPEN-SOURCE PROJECTS](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
+- GitHub: [HOW TO CONTRIBUTE TO OPEN SOURCE](https://opensource.guide/how-to-contribute/)
+- DigitalOcean: [WHAT IS OPEN SOURCE](https://www.digitalocean.com/community/tutorials/what-is-open-source)
+- DigitalOcean: [HOW TO USE GIT](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
+- Manish Kumar Barnwal: [Getting Started with git & GitHub](https://www.youtube.com/watch?v=EFnokAJuWcI)
+
+### START CONTRIBUTING
+- Participating Hacktoberfest projects: [GITHUB](https://github.com/topics/hacktoberfest)
+- Participating Hacktoberfest projects: [GITLAB](https://gitlab.com/explore/projects/topics/hacktoberfest)
+- Explore projects with issues: [UP-FOR-GRABS.NET](https://up-for-grabs.net/#/)
+- Explore projects with issues: [GOODFIRSTISSUE.DEV](https://goodfirstissue.dev/)
+- Explore Hacktoberfest projects: [HACKTOBERFEST-PROJECTS.VERCEL.APP](https://hacktoberfest-projects.vercel.app/)
+- GitHub repository: [FIRST-CONTRIBUTIONS](https://github.com/firstcontributions/first-contributions)
+- GitHub repository: [AWESOME-FOR-BEGINNERS](https://github.com/mungell/awesome-for-beginners)
+
+### FEW PROJECT RECOMMENDATIONS
+- [Hack4Bengal Website](https://github.com/hack4bengal/hack4bengal.github.io)
+- [Open Codeyard](https://github.com/orgs/OpenCodeyard/)
+- [Appwrite](https://github.com/appwrite)
+- [Manish Kumar Barnwal](https://github.com/imanishbarnwal/Events-And-Hackathons)
+- [Vinit Sahdeo](https://github.com/vinitshahdeo/topmate-readme-badge)
+- [Vinit Sahdeo](https://github.com/vinitshahdeo/peerlist-readme-badge)
