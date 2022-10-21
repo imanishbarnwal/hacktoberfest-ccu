@@ -10,10 +10,10 @@
 
 ## Resources For Beginners:
 ### INTRO TO OPEN SOURCE
-- DigitalOcean: [INTRODUCTION TO GITHUB AND OPEN-SOURCE PROJECTS](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
-- GitHub: [HOW TO CONTRIBUTE TO OPEN SOURCE](https://opensource.guide/how-to-contribute/)
-- DigitalOcean: [WHAT IS OPEN SOURCE](https://www.digitalocean.com/community/tutorials/what-is-open-source)
-- DigitalOcean: [HOW TO USE GIT](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
+- DigitalOcean: [Introduction to GitHub and Open-Source Projects](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
+- GitHub: [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+- DigitalOcean: [What is open source](https://www.digitalocean.com/community/tutorials/what-is-open-source)
+- DigitalOcean: [How to use git](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
 - Manish Kumar Barnwal: [Getting Started with git & GitHub](https://www.youtube.com/watch?v=EFnokAJuWcI)
 
 ### DIRECT GITHUB SEARCHES
@@ -30,8 +30,8 @@
 - [is:issue is:open label:your-first-pr](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Ayour-first-pr&type=issues)
 
 ### START CONTRIBUTING
-- Participating Hacktoberfest projects: [GITHUB](https://github.com/topics/hacktoberfest)
-- Participating Hacktoberfest projects: [GITLAB](https://gitlab.com/explore/projects/topics/hacktoberfest)
+- Participating Hacktoberfest projects: [GitHub](https://github.com/topics/hacktoberfest)
+- Participating Hacktoberfest projects: [GitLab](https://gitlab.com/explore/projects/topics/hacktoberfest)
 - Explore projects with issues: [UP-FOR-GRABS.NET](https://up-for-grabs.net/#/)
 - Explore projects with issues: [GOODFIRSTISSUE.DEV](https://goodfirstissue.dev/)
 - Explore Hacktoberfest projects: [HACKTOBERFEST-PROJECTS.VERCEL.APP](https://hacktoberfest-projects.vercel.app/)
