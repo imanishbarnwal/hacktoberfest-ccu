@@ -17,7 +17,7 @@
 - Manish Kumar Barnwal: [Getting Started with git & GitHub](https://www.youtube.com/watch?v=EFnokAJuWcI)
 
 ### DIRECT GITHUB SEARCHES
-> Search links that point directly to suitable issues to contribute to on GitHub.
+*Search links that point directly to suitable issues to contribute to on GitHub.*
 - [is:issue is:open label:beginner](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Abeginner&type=issues)
 - [is:issue is:open label:easy](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy&type=issues)
 - [is:issue is:open label:first-timers-only](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only&type=issues)
@@ -45,3 +45,23 @@
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal/Events-And-Hackathons)
 - [Vinit Sahdeo](https://github.com/vinitshahdeo/topmate-readme-badge)
 - [Vinit Sahdeo](https://github.com/vinitshahdeo/peerlist-readme-badge)
+
+## Open Source programs to participate in
+
+*A program, internship, or fellowship hosted by a community to help match beginning contributors with mentors and resources to contribute to open source software projects.*
+- [All Linux Foundation (LF) Mentorships](https://mentorship.lfx.linuxfoundation.org/#projects_all)
+- [Cloud Native Computing Foundation](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+- [Beginner friendly Open Source programs with their timelines](https://github.com/arpit456jain/Open-Source-Programs)
+- [FossAsia](https://fossasia.org)
+- [Free Software Foundation (FSF) Internship](https://www.fsf.org/volunteer/internships)
+- [Google Summer of Code](https://summerofcode.withgoogle.com/)
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+- [LF Networking Mentorship](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
+- [Microsoft Reinforcement Learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
+- [Open Summer of Code](https://osoc.be/students)
+- [Outreachy](https://www.outreachy.org)
+- [Processing Foundation Internship](https://processingfoundation.org/fellowships/)
+- [Social Summer of Code](https://ssoc.getsocialnow.co/)
+- [Girlscript Summer of Code](https://gssoc.girlscript.tech/)
+- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/)
+- [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io/)
