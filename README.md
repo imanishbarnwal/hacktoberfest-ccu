@@ -1,4 +1,6 @@
-# Hacktoberfest Kolkata
+<h1 align='center'> Hacktoberfest Kolkata </h1>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/46371923/197269488-b71a52cc-5178-456d-a596-5b53a1eafad9.png"></p>
 
 ## Presentation Decks:
 - [Manish Kumar Barnwal](https://docs.google.com/presentation/d/1Q02b4_mnYJCGESSeNQvZxC83s-MMcYDCDTLI1j7xjCU/edit?usp=sharing)
