@@ -8,6 +8,8 @@
 
 ## Hacktoberfest Website: [hacktoberfest.com](https://hacktoberfest.com/)
 
+## Apply for Student Developer Pack: [Here](https://education.github.com/discount_requests/student_application?utm_source=2022-10-22-hacktoberfest-ccu)
+
 ## Resources For Beginners:
 ### INTRO TO OPEN SOURCE
 - DigitalOcean: [Introduction to GitHub and Open-Source Projects](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
@@ -65,3 +67,10 @@
 - [Girlscript Summer of Code](https://gssoc.girlscript.tech/)
 - [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/)
 - [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io/)
+
+## Connect with Speakers:
+- **Manish Kumar Barnwal:** [![Twitter Follow](https://img.shields.io/twitter/follow/imanishbarnwal?style=social)](https://twitter.com/intent/follow?screen_name=imanishbarnwal) [![Linkedin Badge](https://img.shields.io/badge/-Manish_Kumar_Barnwal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/imanishbarnwal)](https://www.linkedin.com/in/imanishbarnwal)
+[![Gmail Badge](https://img.shields.io/badge/-imanishbarnwal@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:imanishbarnwal@gamil.com)](mailto:imanishbarnwal@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Manish_Kumar_Barnwal-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/imanishbarnwal)](https://www.facebook.com/imanishbarnwal) [![Instagram Badge](https://img.shields.io/badge/-@imanishbarnwal-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/imanishbarnwal)](https://www.instagram.com/imanishbarnwal)
+
+- **Hrittik Roy:** [![Twitter Follow](https://img.shields.io/twitter/follow/hrittikhere?style=social)](https://twitter.com/intent/follow?screen_name=hrittikhere) [![Linkedin Badge](https://img.shields.io/badge/-Hrittik_Roy-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/hrittikhere)](https://www.linkedin.com/in/hrittikhere)
+[![Gmail Badge](https://img.shields.io/badge/-hrittikroy@harness.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:hrittikroy@harness.com)](mailto:hrittikroy@harness.com) 
