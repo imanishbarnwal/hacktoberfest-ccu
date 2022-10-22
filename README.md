@@ -4,7 +4,7 @@
 
 ## Presentation Decks:
 - [Manish Kumar Barnwal](https://docs.google.com/presentation/d/1Q02b4_mnYJCGESSeNQvZxC83s-MMcYDCDTLI1j7xjCU/edit?usp=sharing)
-- Hrittik Roy
+- [Hrittik Roy](slides/Docs_Hacktoberfest.pptx)
 
 ## Hacktoberfest Website: [hacktoberfest.com](https://hacktoberfest.com/)
 
