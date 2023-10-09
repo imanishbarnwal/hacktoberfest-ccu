@@ -1,10 +1,10 @@
-<h1 align='center'> Hacktoberfest Kolkata </h1>
+<h1 align='center'> Hacktoberfest Kolkata 2023 </h1>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/46371923/197269488-b71a52cc-5178-456d-a596-5b53a1eafad9.png"></p>
+<!-- <p align="center"><img src="https://user-images.githubusercontent.com/46371923/197269488-b71a52cc-5178-456d-a596-5b53a1eafad9.png"></p>
 
 ## Presentation Decks:
 - [Manish Kumar Barnwal](https://docs.google.com/presentation/d/1Q02b4_mnYJCGESSeNQvZxC83s-MMcYDCDTLI1j7xjCU/edit?usp=sharing)
-- [Hrittik Roy](slides/Docs_Hacktoberfest.pptx)
+- [Hrittik Roy](slides/Docs_Hacktoberfest.pptx) -->
 
 ## Hacktoberfest Website: [hacktoberfest.com](https://hacktoberfest.com/)
 
@@ -42,7 +42,6 @@
 
 ### FEW PROJECT RECOMMENDATIONS
 - [Hack4Bengal Website](https://github.com/hack4bengal/hack4bengal.github.io)
-- [Open Codeyard](https://github.com/orgs/OpenCodeyard/)
 - [Appwrite](https://github.com/appwrite)
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal/Events-And-Hackathons)
 - [Vinit Sahdeo](https://github.com/vinitshahdeo/topmate-readme-badge)
@@ -68,9 +67,6 @@
 - [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/)
 - [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io/)
 
-## Connect with Speakers:
+## Connect with me:
 - **Manish Kumar Barnwal:** [![Twitter Follow](https://img.shields.io/twitter/follow/imanishbarnwal?style=social)](https://twitter.com/intent/follow?screen_name=imanishbarnwal) [![Linkedin Badge](https://img.shields.io/badge/-Manish_Kumar_Barnwal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/imanishbarnwal)](https://www.linkedin.com/in/imanishbarnwal)
 [![Gmail Badge](https://img.shields.io/badge/-imanishbarnwal@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:imanishbarnwal@gamil.com)](mailto:imanishbarnwal@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Manish_Kumar_Barnwal-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/imanishbarnwal)](https://www.facebook.com/imanishbarnwal) [![Instagram Badge](https://img.shields.io/badge/-@imanishbarnwal-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/imanishbarnwal)](https://www.instagram.com/imanishbarnwal)
-
-- **Hrittik Roy:** [![Twitter Follow](https://img.shields.io/twitter/follow/hrittikhere?style=social)](https://twitter.com/intent/follow?screen_name=hrittikhere) [![Linkedin Badge](https://img.shields.io/badge/-Hrittik_Roy-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/hrittikhere)](https://www.linkedin.com/in/hrittikhere)
-[![Gmail Badge](https://img.shields.io/badge/-hrittik@harness.io-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:hrittik@harness.io)](mailto:hrittik@harness.io) 
