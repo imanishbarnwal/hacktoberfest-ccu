@@ -1,72 +1,10 @@
-<h1 align='center'> Hacktoberfest Kolkata 2023 </h1>
+# Hacktoberfest 2023
 
-<!-- <p align="center"><img src="https://user-images.githubusercontent.com/46371923/197269488-b71a52cc-5178-456d-a596-5b53a1eafad9.png"></p>
+## Thank you so much for following along the session so far!
 
-## Presentation Decks:
-- [Manish Kumar Barnwal](https://docs.google.com/presentation/d/1Q02b4_mnYJCGESSeNQvZxC83s-MMcYDCDTLI1j7xjCU/edit?usp=sharing)
-- [Hrittik Roy](slides/Docs_Hacktoberfest.pptx) -->
+As a little token of my appreciation, I want to give every participant who joined a little shoutout.
 
-## Hacktoberfest Website: [hacktoberfest.com](https://hacktoberfest.com/)
+For this part of the activity, please visit the [CONTRIBUTING.md](CONTRIBUTING.md) file in the repository and follow along the instructions and for further resources check [resources.md](resources.md).
 
-## Apply for Student Developer Pack: [Here](https://education.github.com/discount_requests/student_application?utm_source=2022-10-22-hacktoberfest-ccu)
-
-## Resources For Beginners:
-### INTRO TO OPEN SOURCE
-- DigitalOcean: [Introduction to GitHub and Open-Source Projects](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
-- GitHub: [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
-- DigitalOcean: [What is open source](https://www.digitalocean.com/community/tutorials/what-is-open-source)
-- DigitalOcean: [How to use git](https://www.digitalocean.com/community/cheatsheets/how-to-use-git-a-reference-guide)
-- Manish Kumar Barnwal: [Getting Started with git & GitHub](https://www.youtube.com/watch?v=EFnokAJuWcI)
-
-### DIRECT GITHUB SEARCHES
-*Search links that point directly to suitable issues to contribute to on GitHub.*
-- [is:issue is:open label:beginner](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Abeginner&type=issues)
-- [is:issue is:open label:easy](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy&type=issues)
-- [is:issue is:open label:first-timers-only](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only&type=issues)
-- [is:issue is:open label:good-first-bug](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Agood-first-bug&type=issues)
-- [is:issue is:open label:"good first issue"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
-- [is:issue is:open label:starter](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Astarter&type=issues)
-- [is:issue is:open label:up-for-grabs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs&type=issues)
-- [is:issue is:open label:easy-fix](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Aeasy-fix&type=issues)
-- [is:issue is:open label:"beginner friendly"](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22beginner+friendly%22&type=issues)
-- [is:issue is:open label:your-first-pr](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Ayour-first-pr&type=issues)
-
-### START CONTRIBUTING
-- Participating Hacktoberfest projects: [GitHub](https://github.com/topics/hacktoberfest)
-- Participating Hacktoberfest projects: [GitLab](https://gitlab.com/explore/projects/topics/hacktoberfest)
-- Explore projects with issues: [UP-FOR-GRABS.NET](https://up-for-grabs.net/#/)
-- Explore projects with issues: [GOODFIRSTISSUE.DEV](https://goodfirstissue.dev/)
-- Explore Hacktoberfest projects: [HACKTOBERFEST-PROJECTS.VERCEL.APP](https://hacktoberfest-projects.vercel.app/)
-- GitHub repository: [FIRST-CONTRIBUTIONS](https://github.com/firstcontributions/first-contributions)
-- GitHub repository: [AWESOME-FOR-BEGINNERS](https://github.com/mungell/awesome-for-beginners)
-
-### FEW PROJECT RECOMMENDATIONS
-- [Hack4Bengal Website](https://github.com/hack4bengal/hack4bengal.github.io)
-- [Appwrite](https://github.com/appwrite)
-- [Manish Kumar Barnwal](https://github.com/imanishbarnwal/Events-And-Hackathons)
-- [Vinit Sahdeo](https://github.com/vinitshahdeo/topmate-readme-badge)
-- [Vinit Sahdeo](https://github.com/vinitshahdeo/peerlist-readme-badge)
-
-## Open Source programs to participate in
-
-*A program, internship, or fellowship hosted by a community to help match beginning contributors with mentors and resources to contribute to open source software projects.*
-- [All Linux Foundation (LF) Mentorships](https://mentorship.lfx.linuxfoundation.org/#projects_all)
-- [Cloud Native Computing Foundation](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
-- [Beginner friendly Open Source programs with their timelines](https://github.com/arpit456jain/Open-Source-Programs)
-- [FossAsia](https://fossasia.org)
-- [Free Software Foundation (FSF) Internship](https://www.fsf.org/volunteer/internships)
-- [Google Summer of Code](https://summerofcode.withgoogle.com/)
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com)
-- [LF Networking Mentorship](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
-- [Microsoft Reinforcement Learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
-- [Open Summer of Code](https://osoc.be/students)
-- [Outreachy](https://www.outreachy.org)
-- [Processing Foundation Internship](https://processingfoundation.org/fellowships/)
-- [Social Summer of Code](https://ssoc.getsocialnow.co/)
-- [Girlscript Summer of Code](https://gssoc.girlscript.tech/)
-- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/)
-- [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io/)
-
-## Connect with me:
-- **Manish Kumar Barnwal:** [![Twitter Follow](https://img.shields.io/twitter/follow/imanishbarnwal?style=social)](https://twitter.com/intent/follow?screen_name=imanishbarnwal) [![Linkedin Badge](https://img.shields.io/badge/-Manish_Kumar_Barnwal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/imanishbarnwal)](https://www.linkedin.com/in/imanishbarnwal)
-[![Gmail Badge](https://img.shields.io/badge/-imanishbarnwal@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:imanishbarnwal@gamil.com)](mailto:imanishbarnwal@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Manish_Kumar_Barnwal-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/imanishbarnwal)](https://www.facebook.com/imanishbarnwal) [![Instagram Badge](https://img.shields.io/badge/-@imanishbarnwal-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/imanishbarnwal)](https://www.instagram.com/imanishbarnwal)
+### Attendees & Feedbacks:
+-  [Manish Kumar Barnwal](https://github.com/imanishbarnwal), It was a great experience interacting with this repository.
