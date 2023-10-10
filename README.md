@@ -8,3 +8,4 @@ For this part of the activity, please visit the [CONTRIBUTING.md](CONTRIBUTING.m
 
 ### Attendees & Feedbacks:
 -  [Manish Kumar Barnwal](https://github.com/imanishbarnwal), It was a great experience interacting with this repository.
+-  [Chayandev Bera](https://github.com/Chayandev), It was a great experience interacting and attend the event Open Source Safari and contribute to this repository.
