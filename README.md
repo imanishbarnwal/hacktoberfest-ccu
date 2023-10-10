@@ -8,3 +8,5 @@ For this part of the activity, please visit the [CONTRIBUTING.md](CONTRIBUTING.m
 
 ### Attendees & Feedbacks:
 -  [Manish Kumar Barnwal](https://github.com/imanishbarnwal), It was a great experience interacting with this repository.
+
+-  [Harsh Prakash](https://github.com/Harsh-Prakash), It was a great experience interacting with this repository.
